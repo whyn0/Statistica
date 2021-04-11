@@ -33,3 +33,12 @@ APPELLO 3.3
 3)legge di Y, 
 4)Media e varianza di X
 
+APPELLO 7
+1) Legge condizionale con variabili di poisson + cov(X + Y)
+2) Determinare k tale che f(x) = kx^2 densità
+
+APPELLO 1
+1.1)Probabilità normale
+1.2) Somma di va di poisson
+2.1) Urna con palline  
+2.2) Somma var binomiali
