@@ -1,0 +1,1 @@
+[Legge Condizionale va Poisson](Appello7.pdf)

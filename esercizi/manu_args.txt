@@ -1,0 +1,35 @@
+APPELLO 6
+1) PROBABILITA' VARIABILI ALEATORIE POISSON + LEGGE CONDIZIONALE TRA DUE POISSON
+2) DATA DENSITA' VARIABILE ALEATORIA ASSOLUTAMENTE CONTINUA CALCOLARE VALORE ATTESO E VARIANZA
+4) STIMATORE MASSIMA VEROSIMIGLIANZA
+
+APPELLO 2 TRACCIA 1
+1) LEGGE CONDIZIONALE DI DUE VARIABILI ALEATORIE GEOMETRICHE + PROBABILITA'
+APPELLO 2 TRACCIA 2
+1) CONDIZIONALE DI DUE VAR POISSON+ DIM COVARIANZA
+APPELLO 2 TRACCIA 3
+1) DATE 4 VAR A. BERNOULLI CALCOLA DISTRIBUZIONE CONDIZIONALE+ MEDIA LEGGE CONDIZIONALE + ALTRO SULLA CONDIZIONALE
+
+APPELLO 4
+1.calcolo combinatorio
+2.Siano x,y due normali determinare : z=2x+1 calcolare E((Z-Y)^2) e P(Z<2)
+
+APPELLO 3.1
+1.Sia x variabile reale con densità data, 
+1)calcolare legge di Z, 
+2)E(Z) V(Z), 
+3)data W calcolare la sua densità.
+
+APPELLO 3.2
+1.Sia x variabile aleatoria uniforme su intervallo dato,
+ 1) caolcare densità di Y, 
+2)calolare densità di Z,
+ 3)Calcolare E(Y) e V(Y).
+
+APPELLO 3.3
+1.Sia x variabile aleatoria con densità data. 
+1)Calcolare la distribuzione di X, 
+2)Quanto valgono P(X>=3) e P(X<=1/3), 
+3)legge di Y, 
+4)Media e varianza di X
+
